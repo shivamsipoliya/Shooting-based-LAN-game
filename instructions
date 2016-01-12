@@ -1,0 +1,15 @@
+************************************************ ALIEN INVASION GAME:MULTIPLAYER GAME *********************************************
+
+******************************************* CREATED BY SHIVAM SIPOLIYA ******************************************
+
+***************************************LINUX PLATFORM BASED USING OPENGL AND SOCKET PROGRAMMING *************************************  
+
+
+PLAYING INSTRUCTIONS:-
+
+Keyboard : 	Left arrow key for moving left.
+	 	Right arrow key for moving right.
+		Esc to quit.
+
+Mouse :		Left mouse pointer to move left.
+		Window buttons to maximize/minimize or quit.

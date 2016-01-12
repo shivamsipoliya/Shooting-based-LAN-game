@@ -1,0 +1,9 @@
+void initializeGame(int i);
+void addAlien(Alien alien);
+void addBullet(Bullet bullet);
+void addCommando(Commando commando);
+void addApple(Apple apple);
+void deleteApple(int i);
+void deleteBullet(int i);
+void deleteCommando(int i);
+void deleteAlien(int i);
